@@ -1,0 +1,30 @@
+.icon-button {
+    text-align: center;
+    margin: 10px;
+
+}
+
+.icon-button p {
+    font-size: 14px;
+    color: #212121;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.icon-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    border: 1.5px solid #bcbcbc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+.icon {
+    font-size: 35px;
+    color: #959595;
+}

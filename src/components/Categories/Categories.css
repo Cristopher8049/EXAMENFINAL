@@ -1,0 +1,14 @@
+.categories-container {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.icon-grid {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
